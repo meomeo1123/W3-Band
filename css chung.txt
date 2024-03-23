@@ -1,0 +1,8 @@
+đag có css font-size và line-height margin 13px  chung
+opa :opacity
+whit color #fff
+col :cột
+row :hàng
+tel : text-aglign : center 
+pad : padding 64px 16px
+rowt : width 50% 
